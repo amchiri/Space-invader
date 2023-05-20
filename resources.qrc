@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images-20210621/ciel.jpg</file>
+        <file>Images-20210621/meduse.png</file>
+        <file>Images-20210621/meduse2.png</file>
+        <file>Images-20210621/monstre_down.png</file>
+        <file>Images-20210621/monstre_up.png</file>
+        <file>Images-20210621/ovni_jaune.png</file>
+        <file>Images-20210621/poulpe.png</file>
+        <file>Images-20210621/poulpe2.png</file>
+        <file>Images-20210621/vaisseau.png</file>
+        <file>Effets sonores-20210621/game_over.wav</file>
+        <file>Effets sonores-20210621/sound83.wav</file>
+        <file>Effets sonores-20210621/sound98.wav</file>
+        <file>Effets sonores-20210621/sound112.wav</file>
+        <file>Effets sonores-20210621/ta-da-sound-effect.wav</file>
+        <file>Images-20210621/protection_wall.png</file>
+    </qresource>
+</RCC>
